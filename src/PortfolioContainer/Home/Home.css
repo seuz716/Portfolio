@@ -1,0 +1,16 @@
+.home-container{
+  
+   display: flex ;
+   flex-direction: column;
+   justify-content: space-between;
+   min-height: 670px;
+    background: linear-gradient(
+        180deg,
+        rgb(20, 148, 3)0%,
+        rgba(30,140,5)15%,
+        rgba(40,130,10)30%,
+        rgba(50,120,12)45%,
+        rgba(55,110,18)60%,
+        rgb(57, 100, 25)100%
+    );
+ }

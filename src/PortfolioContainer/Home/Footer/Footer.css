@@ -1,0 +1,36 @@
+.footer-container{
+    height: 20%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    
+}
+.footer-parent{
+    width: 100%;
+    height: 100%;
+    max-width: 1920px;
+    
+}
+.footer-parent img{
+    max-width: 100%;
+    height: 130px;
+    
+}
+
+@media only screen and (max-width:1110px){
+    .footer-parent{
+        display: flex;
+        align-items: flex-end;
+
+    }
+
+}
+
+@media only screen and (max-width:810px){
+    .footer-parent{
+        display: flex;
+        align-items: flex-end;
+        
+    }
+
+}
