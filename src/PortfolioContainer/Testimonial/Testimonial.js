@@ -5,38 +5,41 @@ import Typical from "react-typical";
 function testimonial() {
   return (
     <>
-      <div className="profile-details-name" >
+      <div className="home-containe">
         {" "}
-        <h1 className="primary-text">
-          {""} Hello, I'M{" "}
-          <span className="highlighted-text">César Andrés </span>
-        </h1>
-        <div className="profile-picture">
-          <div className="profile-picture-background"></div>
-        </div>
-        <div className="primary-text">
-          <h2>PERFIL</h2>
-          <p >
-            Soy una persona organizada, creativa, innovadora que busca siempre
-            cumplir con las labores y requerimientos que se le exigen, capaz de
-            liderar y solucionar problemas rápidamente. Poseo valores como la
-            sinceridad, la responsabilidad y la honradez; me siento muy a gusto
-            trabajando en equipo. Estudiante de Contaduría pública de la
-            Universidad del Valle último semestre con un rendimiento académico
-            muy alto. Me considero una persona con una alta facilidad de
-            absorber conocimientos teóricos y prácticos y así mismo,
-            trasmitirlos, tengo facilidades para la comunicación en los diversos
-            ámbitos de esta, alta afinidad hacia las personas que me rodean,
-            logrando influenciar hacia la búsqueda del conocimiento y mejora
-            continua. Excelente manejo de excel, elaboración de macros, tablas
-            dinámicas, funciones especials, word, powert point, manejo de
-            inventarios y análisis financiero, manejo de los módulos AP, PO,
-            Proveedores y GL del EPR E Business Suit en plataforma Oracle,
-            software CG-UNO, DATAX, SAI, DATALOAD, entre otros.
-          </p>
+        <div className="profile-container">
+          {" "}
+          <h1 className="primary-text">
+            {""} Hello, I'M{" "}
+            <span className="highlighted-text">César Andrés </span>
+          </h1>
+          <div className="profile-picture">
+            <div className="profile-picture-background"></div>
+          </div>
+          <div className="profile-details-name">
+            <h2>PERFIL</h2>
+            <p>
+              Soy una persona organizada, creativa, innovadora que busca siempre
+              cumplir con las labores y requerimientos que se le exigen, capaz
+              de liderar y solucionar problemas rápidamente. Poseo valores como
+              la sinceridad, la responsabilidad y la honradez; me siento muy a
+              gusto trabajando en equipo. Estudiante de Contaduría pública de la
+              Universidad del Valle último semestre con un rendimiento académico
+              muy alto. Me considero una persona con una alta facilidad de
+              absorber conocimientos teóricos y prácticos y así mismo,
+              trasmitirlos, tengo facilidades para la comunicación en los
+              diversos ámbitos de esta, alta afinidad hacia las personas que me
+              rodean, logrando influenciar hacia la búsqueda del conocimiento y
+              mejora continua. Excelente manejo de excel, elaboración de macros,
+              tablas dinámicas, funciones especials, word, powert point, manejo
+              de inventarios y análisis financiero, manejo de los módulos AP,
+              PO, Proveedores y GL del EPR E Business Suit en plataforma Oracle,
+              software CG-UNO, DATAX, SAI, DATALOAD, entre otros.
+            </p>
+          </div>
         </div>
       </div>
-      <div className="home-container">
+      <div className="home-containe">
         {" "}
         <div className="profile-container">
           <div className="profile-parent">
@@ -119,13 +122,10 @@ function testimonial() {
                 </span>
               </div>
               <div className="profile-options">
-                <button className="btn primary-btn">
-                  {""}
-                  Hire Me {""}
-                </button>
-                <a href="ResumeEs.pdf" download="ResumeEs.pdf">
-                  <button className="btn highlighted-btn">Get Resumen </button>
+                   <a href="ResumeEs.pdf" download="ResumeEs.pdf">
+                  <button  className="btn btn-primary" >Get Resumen </button>
                 </a>
+                <br/>
               </div>
             </div>
           </div>

@@ -11,16 +11,16 @@ export default function Profile() {
             <div className='profile-details' >
                 <div className='colz'>
                     <div className='colz-icon'>
-                    <a href='#'>
+                    <a href="https://m.facebook.com/profile.php?id=100063820491585&_rdr">
                         <i className='fa fa-facebook-square'></i>
                     </a>
-                    <a href='#'>
+                    <a href='https://myaccount.google.com/?utm_source=account-marketing-page&utm_medium=go-to-account-button&pli=1'>
                         <i className='fa fa-google-plus-square'></i>
                     </a>
-                    <a href='#'>
+                    <a href='https://z-p15.www.instagram.com/seuz716/?hl=es-la'>
                         <i className='fa fa-instagram'></i>
                     </a>
-                    <a href='#'>
+                    <a href='href="https://www.youtube.com/channel/UCy4U3DhNkBHwytod7fquQVQ"'>
                         <i className='fa fa-youtube-square'></i>
                     </a>
                     <a href='#'>
@@ -41,27 +41,24 @@ export default function Profile() {
                             <Typical
                             loop={Infinity}
                             steps={[
-                                "Ethusiastic Dev 🌇",
-                                1000 ,
+                                "Entusiasta Desarrollador 🌇",
+                                50 ,
                                 "Full Stack  Developer 💻",
-                                1000,
-                                "React Dev 🔢",
-                                1000,
+                                100,
+                                "Desarrollador en React JS 🔢",
+                                200,
                                 "MERN Stack Dev 🚄",
-                                1000,
+                                200,
                             ]}
                             />
                         </h1>
-                        <span className='profile-role-tagline'>Knack of Building applications with front and backend operations.</span>
+                        <span className='profile-role-tagline'>Habilidades para construir aplicaciones con operaciones de front-end y back-end.</span>
                    </span>
                </div>
                <div className='profile-options'>
-                   <button className='btn primary-btn'>
-                       {""}
-                       Hire Me {""}
-                   </button>
+                   
                    <a href= "ResumeEs.pdf" download='ResumeEs.pdf'>
-                        <button className='btn highlighted-btn'>Get Resumen </button>
+                        <button className='btn btn-primary'>Obten mi CV </button>
                    </a>
                </div>
             </div >

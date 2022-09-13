@@ -1,4 +1,4 @@
-.home-container{
+.profile-container{
   
    display: flex ;
    flex-direction: column;
@@ -6,11 +6,12 @@
    min-height: 670px;
     background: linear-gradient(
         180deg,
-        rgb(20, 148, 3)0%,
-        rgba(30,140,5)15%,
-        rgba(40,130,10)30%,
-        rgba(50,120,12)45%,
-        rgba(55,110,18)60%,
-        rgb(57, 100, 25)100%
+        rgb(51, 49, 168)0%,
+        rgb(55, 55, 150)15%,
+        rgba(60,60,140)30%,
+        rgba(62,62,132)45%,
+        rgba(55,60,125)60%,
+        rgb(57, 57, 165)100%
+      
     );
  }

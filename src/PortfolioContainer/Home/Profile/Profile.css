@@ -28,7 +28,7 @@
     font-family: cursive;
 }
 
-.promary-text{
+.primary-text{
     color:(--white);
 }
 
@@ -154,3 +154,21 @@
         width: 90%;
     }
 }
+
+.home-container{
+  
+    display: flex ;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 670px;
+     background: linear-gradient(
+         180deg,
+         rgb(51, 49, 168)0%,
+         rgb(55, 55, 150)15%,
+         rgba(60,60,140)30%,
+         rgba(62,62,132)45%,
+         rgba(55,60,125)60%,
+         rgb(57, 57, 165)100%
+         #3a34d2 
+     );
+  }

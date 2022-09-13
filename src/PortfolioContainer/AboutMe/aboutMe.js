@@ -13,6 +13,7 @@ function aboutMe() {
 
    
      {<Testimonial  />}
+     
      {<Footer  />}
      
      </div>

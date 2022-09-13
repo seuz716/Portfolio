@@ -1,4 +1,5 @@
 import Routes from './PortfolioContainer/Routes/Routes';
+import "bootstrap/dist/css/bootstrap.min.css";
 import './App.css';
 
 
