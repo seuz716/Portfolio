@@ -64,7 +64,7 @@ export default function Profile() {
             </div >
             <div className='profile-picture'>
                 <div className='profile-picture-background'>
-
+                            
                 </div>
  
             </div>

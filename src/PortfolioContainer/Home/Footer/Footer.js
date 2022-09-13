@@ -13,7 +13,7 @@ export default function Footer() {
                 <div className="col-md-4">
                     <div className="address">
                         <div className="left-icon">
-                            <img src="location.png"/>
+                            <img src="location.png" alt='location' />
                         </div>
                         <div className="right-text">
                             <h3>Localizacíon</h3>
@@ -25,7 +25,7 @@ export default function Footer() {
                 <div className="col-md-4">
                     <div className="address">
                         <div className="left-icon">
-                            <img src=""/>
+                            <img src=""  alt='addres'/>
                         </div>
                         <div className="right-text">
                             <h3>Correo Eléctronico</h3>
@@ -36,7 +36,7 @@ export default function Footer() {
                 <div className="col-md-4">
                     <div className="address">
                         <div className="left-icon">
-                            <img src="call.png"/>
+                            <img src="call.png" alt='call'/>
                         </div>
                         <div className="right-text">
                             <h3>Telefonos</h3>
