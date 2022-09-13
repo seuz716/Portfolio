@@ -30,7 +30,7 @@ export default function Profile() {
                 </div >
                 <div className='profile-details-name'>
                     <span className='primary-text'>
-                    {""} Hello, I'M <span className='highlighted-text'>César </span>
+                    {""} Hello, I'M <span className='highlighted-text'>César Andrés </span>
                     </span>
                 </div>
                <div className='profile-details-role'>
@@ -73,6 +73,7 @@ export default function Profile() {
             </div>
         </div>    
     </div>
+
   );
   
 }
