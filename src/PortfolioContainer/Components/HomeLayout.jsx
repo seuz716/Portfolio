@@ -1,4 +1,4 @@
-import { Link, Navigate, useOutlet } from "react-router-dom";
+import { useOutlet } from "react-router-dom";
 import { AppBar } from "./AppBar";
 
 

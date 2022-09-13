@@ -51,28 +51,28 @@ export default function Footer() {
                 <div className="col-md-3">
                     <h3 className="footer-title"><span className="footer-title-text"> Links</span><span className="footer-title"></span></h3>
                     <ul className="quick-link-list">
-                        <li><a href="#">  Desarrollos</a></li>
-                        <li><a href="#"> Música</a></li>
-                        <li><a href="#"> Educacion</a></li>
-                        <li><a href="#"> financiero</a></li>
+                        <li><a href="/">  Desarrollos</a></li>
+                        <li><a href="/"> Música</a></li>
+                        <li><a href="/"> Educacion</a></li>
+                        <li><a href="/"> financiero</a></li>
                     </ul>
                 </div>
                 <div className="col-md-3">
                     <h3 className="footer-title title">Noticias </h3>
                     <ul className="quick-link-list">
-                        <li><a href="#"> Inicio</a></li>
-                        <li><a href="#"> Archivos de Video</a></li>
-                        <li><a href="#"> Notas & Eventos</a></li>
+                        <li><a href="https://www.youtube.com/channel/UCy4U3DhNkBHwytod7fquQVQ"> Inicio</a></li>
+                        <li><a href="https://www.youtube.com/channel/UCy4U3DhNkBHwytod7fquQVQ"> Archivos de Video</a></li>
+                        <li><a href="https://www.youtube.com/channel/UCy4U3DhNkBHwytod7fquQVQ"> Notas & Eventos</a></li>
                         
                     </ul>
                 </div>
                 <div className="col-md-3">
                     <h3 className="footer-title title">Links de interés</h3>
                     <ul className="quick-link-list">
-                        <li><a href="#"> Donation</a></li>
-                        <li><a href="#"> Desarrollos en proceso</a></li>
-                        <li><a href="#"> Feedback</a></li>
-                        <li><a href="#"> Contacta Me</a></li>
+                        <li><a href="https://www.youtube.com/channel/UCy4U3DhNkBHwytod7fquQVQ"> Donation</a></li>
+                        <li><a href="https://www.youtube.com/channel/UCy4U3DhNkBHwytod7fquQVQ"> Desarrollos en proceso</a></li>
+                        <li><a href="https://www.youtube.com/channel/UCy4U3DhNkBHwytod7fquQVQ"> Feedback</a></li>
+                        <li><a href="https://www.youtube.com/channel/UCy4U3DhNkBHwytod7fquQVQ"> Contacta Me</a></li>
                     </ul>
                 </div>
                 <div className="col-md-3">
@@ -86,7 +86,6 @@ export default function Footer() {
                     </form>
                     <div id="social">
                         <a className="facebookBtn smGlobalBtn" href="https://m.facebook.com/profile.php?id=100063820491585&_rdr"></a>
-                        <a className="twitterBtn smGlobalBtn" href="#"></a>
                         <a className="youtubeBtn smGlobalBtn" href="https://www.youtube.com/channel/UCy4U3DhNkBHwytod7fquQVQ"></a>
                         <a className="linkedinBtn smGlobalBtn" href="https://www.linkedin.com/in/cesar-andr%C3%A9s-abad%C3%ADa-d%C3%A1vila-b0a915203/"></a>
 

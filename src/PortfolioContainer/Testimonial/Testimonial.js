@@ -46,19 +46,19 @@ function testimonial() {
             <div className="profile-details">
               <div className="colz">
                 <div className="colz-icon">
-                  <a href="#">
+                  <a href="https://www.youtube.com/channel/UCy4U3DhNkBHwytod7fquQVQ">
                     <i className="fa fa-facebook-square"></i>
                   </a>
-                  <a href="#">
+                  <a href="https://www.youtube.com/channel/UCy4U3DhNkBHwytod7fquQVQ">
                     <i className="fa fa-google-plus-square"></i>
                   </a>
-                  <a href="#">
+                  <a href="https://www.youtube.com/channel/UCy4U3DhNkBHwytod7fquQVQ">
                     <i className="fa fa-instagram"></i>
                   </a>
-                  <a href="#">
+                  <a href="https://www.youtube.com/channel/UCy4U3DhNkBHwytod7fquQVQ">
                     <i className="fa fa-youtube-square"></i>
                   </a>
-                  <a href="#">
+                  <a href="https://www.youtube.com/channel/UCy4U3DhNkBHwytod7fquQVQ">
                     <i className="fa fa-twitter"></i>
                   </a>
                 </div>
